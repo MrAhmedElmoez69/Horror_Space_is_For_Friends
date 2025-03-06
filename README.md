@@ -1,3 +1,1 @@
-# FPS_Game
-
-Developed with Unreal Engine 5
+Space Is for Friends is an episodic psychological horror game built in Unreal Engine 
